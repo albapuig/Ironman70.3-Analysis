@@ -1,9 +1,9 @@
-#Ironman Performance Analysis
+# Ironman Performance Analysis
 
-##Overview
+## Overview
 This GitHub repository contains the code and analysis for a comprehensive study on Ironman and Ironman 70.3 Triathlon performance. The project aims to explore historical trends, identify key factors influencing performance, and develop predictive models using R.
 
-##Contents
+## Contents
 - Introduction and Goals
 Overview of the project's objectives and goals.
 
